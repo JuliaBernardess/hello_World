@@ -37,7 +37,7 @@ public class BsmsListController {
 	
     /*public String [] listaBSMS() {
 		
-		String vetor [] = {"Comunicação", "Proatividade", "Orintação ao detalhe" };
+		String vetor [] = {"Comunicação", "Proatividade", "Orientação aos detalhes" };
 		
 		return vetor;
 		
